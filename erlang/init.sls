@@ -1,0 +1,2 @@
+erlang:
+  pkg.installed
