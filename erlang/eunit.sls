@@ -1,0 +1,2 @@
+erlang-eunit:
+  pkg.installed
