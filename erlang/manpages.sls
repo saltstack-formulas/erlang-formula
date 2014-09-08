@@ -1,0 +1,2 @@
+erlang-manpages:
+  pkg.installed
